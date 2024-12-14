@@ -22,6 +22,5 @@ A passionate frontend developer from India
 ![Honey Kumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukaransingh123&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukaransingh123&layout=compact&theme=dark)
 
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2300FF00&size=24&lines=Frontend+Developer;Learning+ExpressJS+%26+Deep+Learning)
 
